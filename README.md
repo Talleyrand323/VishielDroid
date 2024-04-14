@@ -13,7 +13,7 @@ The source code and custom OS image files will be released, later !
 
 
 ## How to use
-
+  
 1) Please download 3 files above into the same directory.
 2) Open up your Jupyter Notebook (or a webpage for Google Colab).
 3) Execute the code blocks of 'test_code.ipynb' one by one from the top.  
