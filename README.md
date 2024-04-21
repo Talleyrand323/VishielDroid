@@ -1,4 +1,5 @@
-![image](https://github.com/Talleyrand323/VishielDroid/assets/160467286/32bc5889-98ef-47c2-832c-2c7db01aa7b7)# VishielDroid
+
+# VishielDroid
 
 Greetings, to those who have visited this repository 😎 <br/>
 Here we provide some materials that might be helpful for your reviewing process as follows:
@@ -25,7 +26,7 @@ Due to both limited capacity of the repository and ethical issues, we provide th
 hash values of the dataset from 2021 to 2023 that we used in our paper.<br/> 
 
 In case of the malware samples (Vishing_202*.txt), you could use the hash values to <br/>
-get the information from [VirusTotal](https://www.virustotal.com), and as for benign samples (Benign_202*.txt), <br/>
+get the information from [VirusTotal](https://www.virustotal.com), and as for the benign samples (Benign_202*.txt), <br/>
 you could refer to [AndroZoo](https://androzoo.uni.lu/api_doc) and download the according APK files.
 
 
