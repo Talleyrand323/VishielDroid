@@ -21,7 +21,7 @@ The source code and custom OS image files will be released, later !
 
 ## Dataset
 
-Due to the limited capacity of the repository and ethical issues, we provide the hash values of the dataset from 2021 to 2023 that we used in our paper. 
+Due to both limited capacity of the repository and ethical issues, we provide the hash values of the dataset from 2021 to 2023 that we used in our paper. 
 
 In case of the malware samples (202*_Vishing.txt), you could use the hash values to get the information from [VirusTotal](https://www.virustotal.com), 
 and as for benign samples (202*_Benign.txt), you could refer to [AndroZoo](https://androzoo.uni.lu/api_doc) and download the according APK files.
